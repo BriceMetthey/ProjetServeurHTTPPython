@@ -1,0 +1,34 @@
+body {
+	font-family: Arial, sans-serif; /* Police de caractère */
+	margin: 20px; /* Marge autour du corps */
+}
+form {
+	max-width: 400px; /* Largeur maximum du formulaire */
+	margin: auto; /* Centrer le formulaire */
+	padding: 20px; /* Espacement intérieur */
+	border: 1px solid #ccc; /* Bordure autour du formulaire */
+	border-radius: 5px; /* Coins arrondis */
+	background-color: #f9f9f9; /* Couleur de fond */
+}
+label {
+	display: block; /* Chaque étiquette occupe une ligne */
+	margin-bottom: 8px; /* Espacement en dessous des étiquettes */
+}
+input, textarea {
+	width: 100%; /* Largeur complète des champs */
+	padding: 10px; /* Espacement intérieur des champs */
+	margin-bottom: 20px; /* Espacement en dessous des champs */
+	border: 1px solid #ccc; /* Bordure des champs */
+	border-radius: 4px; /* Coins arrondis des champs */
+}
+button {
+	padding: 10px 15px; /* Espacement intérieur du bouton */
+	background-color: #4CAF50; /* Couleur de fond du bouton */
+	color: white; /* Couleur du texte du bouton */
+	border: none; /* Pas de bordure */
+	border-radius: 4px; /* Coins arrondis */
+	cursor: pointer; /* Curseur pointer pour le bouton */
+}
+button:hover {
+	background-color: #45a049; /* Couleur de fond lors du survol */
+}
