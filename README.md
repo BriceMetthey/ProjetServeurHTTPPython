@@ -13,8 +13,8 @@ Serveur web minimal en Python sans bibliothèques tièrces.
 
 ## Améliorations
 
-- [] Approche modulaire pour la génération HTML
-- [] Approche modulaire pour le traitement des requêtes (1 fichier POST, 1 fichier GET)
-- [] Utiliser un outil en ligne de commande (curl) voir https://curl.se/docs/tutorial.html
-- [] Ajouter paramètres optionnels  `python serveurHTTP.py --port:9000`
-
+[] Approche modulaire pour la génération HTML
+[] Approche modulaire pour le traitement des requêtes (1 fichier POST, 1 fichier GET)
+[] Utiliser un outil en ligne de commande (curl) voir https://curl.se/docs/tutorial.html
+[] Ajouter paramètres optionnels  `python serveurHTTP.py --port:9000`
+[] Explorer usage HTTPS ?
