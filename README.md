@@ -1,17 +1,17 @@
-# Serveur HTTP en Python
+# Serveur HTTP en Python :snake:
 
 Serveur web minimal en Python sans bibliothèques tièrces.
 
-## Execution du serveur
+## :bicyclist: Execution du serveur 
 
 `python serveurHTTP.py`
 
-## Usages
+## :plate_with_cutlery: Usages 
 
-- Utiliser les formulaires mis à disposition pour tester les envois de formulaires via les méthodes GET et POST.
+- Utiliser les formulaires HTML mis à disposition `formulaire_GET.html` et `formulaire_POST.html` pour tester l'envois de formulaires HTML via les méthodes GET et POST.
 - Dans un navigateur lancer l'URL :  `http://localhost:8080//recherche/utilisateur?filtre=sans` pour lancer la lecture et l'envoi de données provenant d'un fichier CSV.
 
-## Améliorations
+## :notebook: Améliorations
 
 - [ ] Approche modulaire pour la génération HTML
 - [ ] Approche modulaire pour le traitement des requêtes (1 fichier POST, 1 fichier GET)
